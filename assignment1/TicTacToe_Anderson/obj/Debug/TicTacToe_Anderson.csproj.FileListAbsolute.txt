@@ -1,0 +1,16 @@
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\bin\Debug\TicTacToe_Anderson.exe.config
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\bin\Debug\TicTacToe_Anderson.exe
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\bin\Debug\TicTacToe_Anderson.pdb
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\bin\Debug\Information.dll
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\bin\Debug\Information.pdb
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\obj\Debug\TicTacToe_Anderson.csprojAssemblyReference.cache
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\obj\Debug\TicTacToe_Anderson.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\obj\Debug\TicTacToe_Anderson.csproj.CopyComplete
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\obj\Debug\TicTacToe_Anderson.exe
+C:\Users\Liberty Anderson\Desktop\itdev 115 oop2\tictactoeassignment\TicTacToe_Anderson\TicTacToe_Anderson\obj\Debug\TicTacToe_Anderson.pdb
+C:\Users\shad4\OneDrive\Desktop\fuck\TicTacToe_Anderson\obj\Debug\TicTacToe_Anderson.csprojAssemblyReference.cache
+C:\Users\shad4\OneDrive\Desktop\fuck\TicTacToe_Anderson\obj\Debug\TicTacToe_Anderson.exe
+C:\Users\shad4\OneDrive\Desktop\fuck\TicTacToe_Anderson\obj\Debug\TicTacToe_Anderson.pdb
+C:\Users\shad4\OneDrive\Desktop\fuck\TicTacToe_Anderson\bin\Debug\TicTacToe_Anderson.exe.config
+C:\Users\shad4\OneDrive\Desktop\fuck\TicTacToe_Anderson\bin\Debug\TicTacToe_Anderson.exe
+C:\Users\shad4\OneDrive\Desktop\fuck\TicTacToe_Anderson\bin\Debug\TicTacToe_Anderson.pdb
